@@ -1,0 +1,700 @@
+========================================
+PROBLEM NUMBER: 1
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 0 1 0 1 0 1 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 1 1 
+Total weight: 93.5729
+Capacity: 94.0830
+Total value: 1803.8909
+Optimal value: 1803.8909
+Execution time: 14280.3350 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 2
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 0 0 1 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 1 0 1 0 1 
+Total weight: 87.9687
+Capacity: 88.2736
+Total value: 1653.6317
+Optimal value: 1653.6317
+Execution time: 14191.8230 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 3
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 1 0 0 0 1 1 0 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 1 
+Total weight: 63.6251
+Capacity: 64.5907
+Total value: 1422.6935
+Optimal value: 1422.6935
+Execution time: 14075.5360 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 4
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 1 1 1 0 0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 0 
+Total weight: 75.0956
+Capacity: 76.9934
+Total value: 2019.2964
+Optimal value: 2019.2964
+Execution time: 14596.6450 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 5
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 1 1 0 
+Total weight: 122.3685
+Capacity: 123.2344
+Total value: 2067.3782
+Optimal value: 2067.3782
+Execution time: 14767.4170 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 6
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 0 1 0 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 
+Total weight: 83.5950
+Capacity: 83.7914
+Total value: 1855.5770
+Optimal value: 1855.5770
+Execution time: 14206.9300 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 7
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 1 0 0 1 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 0 1 1 1 1 
+Total weight: 82.4178
+Capacity: 82.6919
+Total value: 1929.4005
+Optimal value: 1929.4005
+Execution time: 14455.8550 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 8
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 1 1 1 0 1 1 0 1 0 1 0 1 0 0 1 1 1 1 1 1 0 1 0 0 1 
+Total weight: 123.2981
+Capacity: 123.7538
+Total value: 1762.1162
+Optimal value: 1762.1162
+Execution time: 14731.9590 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 9
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 0 0 0 1 
+Total weight: 121.0431
+Capacity: 121.0678
+Total value: 1487.3959
+Optimal value: 1487.3959
+Execution time: 14346.9020 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 10
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 0 1 1 0 1 0 0 1 1 0 0 1 1 0 1 1 0 0 0 1 0 0 1 1 1 
+Total weight: 103.2841
+Capacity: 103.4244
+Total value: 1610.9224
+Optimal value: 1610.9224
+Execution time: 14517.5610 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 11
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 0 1 1 0 1 0 1 1 0 0 0 0 1 0 1 0 1 1 0 1 0 1 0 0 0 
+Total weight: 86.8516
+Capacity: 87.3034
+Total value: 1962.5989
+Optimal value: 1962.5989
+Execution time: 14412.4130 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 12
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 1 1 0 1 1 1 0 1 0 0 1 0 0 1 0 1 0 1 0 1 1 1 0 1 1 
+Total weight: 121.4541
+Capacity: 121.9468
+Total value: 2174.6045
+Optimal value: 2174.6045
+Execution time: 14730.0610 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 13
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 1 1 0 0 0 0 1 0 0 1 0 0 0 1 0 1 1 0 0 1 1 0 1 1 
+Total weight: 97.1195
+Capacity: 97.4666
+Total value: 1811.4764
+Optimal value: 1811.4764
+Execution time: 14469.7630 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 14
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 1 0 1 1 1 0 1 1 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 1 
+Total weight: 167.4868
+Capacity: 167.5969
+Total value: 2220.9460
+Optimal value: 2220.9460
+Execution time: 14724.6070 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 15
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 0 0 0 1 0 0 1 0 0 0 1 0 1 1 0 1 1 0 0 1 1 0 0 0 
+Total weight: 83.0865
+Capacity: 84.5762
+Total value: 1473.6466
+Optimal value: 1473.6466
+Execution time: 14082.4560 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 16
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 0 0 0 1 1 0 1 0 1 0 0 1 1 1 1 0 1 0 1 0 1 1 0 1 1 
+Total weight: 121.7019
+Capacity: 123.4832
+Total value: 1855.5708
+Optimal value: 1855.5708
+Execution time: 14789.3590 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 17
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 0 0 0 1 0 0 1 1 1 0 1 0 0 0 1 0 1 0 0 1 1 1 1 0 0 
+Total weight: 129.3183
+Capacity: 130.5021
+Total value: 1735.4418
+Optimal value: 1735.4418
+Execution time: 14375.2260 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 18
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 1 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 1 0 
+Total weight: 119.0670
+Capacity: 119.1558
+Total value: 2142.3669
+Optimal value: 2142.3669
+Execution time: 14641.5680 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 19
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 1 1 0 0 0 1 1 1 1 0 1 1 0 1 0 0 0 1 0 0 1 0 1 1 
+Total weight: 93.8362
+Capacity: 94.5172
+Total value: 1860.6221
+Optimal value: 1860.6221
+Execution time: 14228.5840 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 20
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 1 1 1 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 1 1 1 0 1 1 1 
+Total weight: 111.6544
+Capacity: 114.1368
+Total value: 1930.3682
+Optimal value: 1930.3682
+Execution time: 14857.1830 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 21
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 0 1 0 0 1 1 1 0 0 1 1 1 1 0 0 1 0 0 0 0 1 1 1 1 
+Total weight: 136.6290
+Capacity: 138.1929
+Total value: 1921.7539
+Optimal value: 1921.7539
+Execution time: 14746.1880 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 22
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 0 0 0 0 1 1 0 0 1 0 1 1 1 0 1 0 1 0 1 0 1 1 1 0 
+Total weight: 106.2388
+Capacity: 106.2489
+Total value: 1721.9783
+Optimal value: 1721.9783
+Execution time: 14845.4850 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 23
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 1 0 0 0 1 1 0 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 
+Total weight: 87.0895
+Capacity: 87.7821
+Total value: 1655.7765
+Optimal value: 1655.7765
+Execution time: 14385.3800 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 24
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 0 1 1 1 0 0 0 1 1 0 0 1 1 0 0 0 1 1 0 1 0 1 0 0 1 
+Total weight: 75.0381
+Capacity: 75.3691
+Total value: 1736.9689
+Optimal value: 1736.9689
+Execution time: 14313.6470 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 25
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 1 0 1 0 1 1 0 1 0 
+Total weight: 93.5139
+Capacity: 94.4375
+Total value: 1367.1112
+Optimal value: 1367.1112
+Execution time: 14434.5720 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 26
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 0 0 1 0 1 0 1 0 1 1 1 1 1 0 1 0 0 1 0 0 0 1 1 1 
+Total weight: 112.2132
+Capacity: 115.5715
+Total value: 2091.3579
+Optimal value: 2091.3579
+Execution time: 14662.2190 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 27
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 0 0 0 1 1 1 1 0 1 0 0 1 0 1 1 0 0 1 1 1 0 0 0 1 0 
+Total weight: 123.7025
+Capacity: 124.7358
+Total value: 1835.7321
+Optimal value: 1835.7321
+Execution time: 14231.5540 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 28
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 1 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 1 1 1 0 
+Total weight: 138.7994
+Capacity: 139.1717
+Total value: 1853.1962
+Optimal value: 1853.1962
+Execution time: 14507.6350 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 29
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 0 0 0 1 1 1 0 1 0 0 1 1 0 0 1 1 1 0 0 1 0 0 0 1 
+Total weight: 112.0854
+Capacity: 113.4229
+Total value: 1655.0408
+Optimal value: 1655.0408
+Execution time: 14482.9210 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 30
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 0 1 0 1 1 1 0 1 0 0 0 1 0 0 1 0 1 1 0 1 1 1 1 0 0 
+Total weight: 107.8238
+Capacity: 108.1607
+Total value: 1628.5558
+Optimal value: 1628.5558
+Execution time: 14426.8620 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 31
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 0 1 1 1 1 1 0 1 0 1 0 1 
+Total weight: 121.5913
+Capacity: 123.1365
+Total value: 1602.2517
+Optimal value: 1602.2517
+Execution time: 14271.9870 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 32
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 1 1 0 1 0 1 1 1 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 1 
+Total weight: 98.3726
+Capacity: 98.6682
+Total value: 1919.9963
+Optimal value: 1919.9963
+Execution time: 14727.4970 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 33
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 0 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 1 0 1 1 1 0 0 0 0 
+Total weight: 76.6468
+Capacity: 77.4938
+Total value: 1571.9043
+Optimal value: 1571.9043
+Execution time: 13912.0100 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 34
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 0 1 0 1 1 0 0 1 0 1 1 1 0 1 1 0 1 0 1 0 0 0 1 0 
+Total weight: 66.8667
+Capacity: 67.6632
+Total value: 1934.0559
+Optimal value: 1934.0559
+Execution time: 14395.5560 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 35
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 1 0 1 0 1 1 0 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 1 
+Total weight: 136.1659
+Capacity: 136.7007
+Total value: 2292.4885
+Optimal value: 2292.4885
+Execution time: 14964.2680 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 36
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 1 0 1 0 0 1 
+Total weight: 70.9038
+Capacity: 71.5653
+Total value: 1540.4315
+Optimal value: 1540.4315
+Execution time: 14000.7950 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 37
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 0 1 1 1 0 1 1 0 1 0 1 0 0 0 1 1 0 1 1 1 0 0 0 1 1 
+Total weight: 117.8483
+Capacity: 120.5926
+Total value: 2137.3032
+Optimal value: 2137.3032
+Execution time: 14691.0180 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 38
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 0 1 0 0 1 1 1 0 1 0 0 1 1 0 0 1 1 0 0 1 0 1 0 1 
+Total weight: 89.6253
+Capacity: 90.5964
+Total value: 1654.6683
+Optimal value: 1654.6683
+Execution time: 14633.4940 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 39
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 1 1 1 1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0 0 
+Total weight: 137.3465
+Capacity: 137.5266
+Total value: 2074.2507
+Optimal value: 2074.2507
+Execution time: 14581.9760 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 40
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 0 1 1 0 1 1 1 1 0 0 0 0 1 1 0 1 1 0 1 0 1 0 0 1 0 
+Total weight: 107.1513
+Capacity: 109.2701
+Total value: 2039.7937
+Optimal value: 2039.7937
+Execution time: 14666.0640 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 41
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 0 0 0 1 1 0 1 0 0 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 
+Total weight: 78.8897
+Capacity: 79.7911
+Total value: 1386.1578
+Optimal value: 1386.1578
+Execution time: 14068.4670 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 42
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 1 0 0 1 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 0 1 0 0 1 
+Total weight: 114.2587
+Capacity: 116.6757
+Total value: 2076.4275
+Optimal value: 2076.4275
+Execution time: 14457.3100 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 43
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 1 1 0 0 
+Total weight: 75.9380
+Capacity: 77.7209
+Total value: 1735.1444
+Optimal value: 1735.1444
+Execution time: 13877.9780 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 44
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 1 
+Total weight: 154.1808
+Capacity: 154.2317
+Total value: 1778.0088
+Optimal value: 1778.0088
+Execution time: 14831.7510 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 45
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 0 1 1 0 0 
+Total weight: 157.5547
+Capacity: 160.8310
+Total value: 2179.0898
+Optimal value: 2179.0898
+Execution time: 14773.0830 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 46
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 1 0 0 1 1 0 0 1 0 0 1 0 1 1 1 1 1 0 1 1 0 0 1 1 0 
+Total weight: 156.8433
+Capacity: 163.2773
+Total value: 2221.5427
+Optimal value: 2221.5427
+Execution time: 14860.7530 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 47
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 0 0 0 1 1 0 0 1 1 1 0 1 1 1 1 0 1 1 1 1 0 0 1 1 1 1 
+Total weight: 119.9650
+Capacity: 122.8506
+Total value: 2160.4006
+Optimal value: 2160.4006
+Execution time: 14832.0270 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 48
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 1 1 1 0 0 0 0 
+Total weight: 113.7387
+Capacity: 114.5741
+Total value: 2078.2312
+Optimal value: 2078.2312
+Execution time: 14598.6770 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 49
+ALGORITHM: Brute Force
+========================================
+Selected items: 1 1 1 0 0 1 0 0 0 0 1 1 0 1 1 1 0 0 0 1 0 1 1 0 0 1 0 
+Total weight: 91.9081
+Capacity: 92.7991
+Total value: 1624.3260
+Optimal value: 1624.3260
+Execution time: 14284.6670 ms
+Feasible: YES
+Optimal solution found: YES
+
+
+========================================
+PROBLEM NUMBER: 50
+ALGORITHM: Brute Force
+========================================
+Selected items: 0 0 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 0 1 1 1 0 0 0 0 0 
+Total weight: 75.8123
+Capacity: 76.6521
+Total value: 1666.3763
+Optimal value: 1666.3763
+Execution time: 14316.2680 ms
+Feasible: YES
+Optimal solution found: YES
+
+
